@@ -1,0 +1,2 @@
++ **What is Raster Graphics?**
+`Raster Graphics` is a *dot matrix data structure* that represents a generally rectangular grid of *pixels*, viewable via *paper*, *monitor*, or *other display medium*. `Raster Images` are stored in image files.
