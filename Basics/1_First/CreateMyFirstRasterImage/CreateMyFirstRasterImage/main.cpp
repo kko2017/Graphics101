@@ -6,7 +6,7 @@ using namespace std;
 int main() {
 
     ofstream ofile("example1.ppm");
-
+   
     const int image_width = 2;
     const int image_height = 2;
 
